@@ -11,3 +11,7 @@
 * [3 Evaluate & Refine Solution](project-instructions/3-evaluate-and-refine-solution.md)
 * [4 Share Project with Public](project-instructions/4-share-project-with-public.md)
 
+## Reference
+
+* [Data Dashboard Code Library](https://docs.idew.org/code-dataviz-dashboard/)
+
