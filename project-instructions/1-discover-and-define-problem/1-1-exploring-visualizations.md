@@ -19,6 +19,5 @@ For this exercise you will explore visualizations online and to see the breadth 
 > * Value - What is the value? Is it meant to call people to some action?
 
 **❏ Deliverable     
--** Your Analysis Document  
-**-** Be prepared to share what you found most compelling about the visualization and your analysis.
+Your Analysis Document** - Be prepared to share what you found most compelling about the visualization and your analysis.
 
