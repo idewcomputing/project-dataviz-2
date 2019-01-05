@@ -1,6 +1,6 @@
 # 1 Discover & Define Problem
 
-![](../.gitbook/assets/phase1.png)
+![](../../.gitbook/assets/phase1.png)
 
 In this phase you well begin to **frame the goals** of your team's design by learning about these important aspects.
 
