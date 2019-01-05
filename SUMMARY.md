@@ -1,7 +1,6 @@
 # Table of contents
 
 * [About](README.md)
-* [Intro to Data Visualization](intro-to-data-visualization.md)
 * [Challenge and Background](challenge-and-background.md)
 
 ## Project Instructions
