@@ -6,15 +6,12 @@
    * What is the potential level of community impact or value of the idea?
    * What is the team's level of interest in the concept topic?
    * How much access do you have to the needed data/information that you expect your will need?
-4. **Finally, narrow down the concepts to the top three**. Complete the following details for each concept. You can use [this template](https://docs.google.com/document/d/1q8GrkOk40KiU47JYBdZOsisdYwBYWD-02eguFwuemaM/edit?usp=sharing).
 
-**❏ Deliverable:** Documentation of individual concepts and a document detailing the top three chosen concepts.
+**❏ Deliverable:** Documentation of individual concepts and a map of your concept comparisons.
 
 **Examples**
 
 ![](../../.gitbook/assets/concepts.png)
 
 ![](../../.gitbook/assets/ideamap.png)
-
-![](../../.gitbook/assets/teamconcepts.png)
 
