@@ -1,7 +1,6 @@
 # Table of contents
 
-* [About](README.md)
-* [Challenge and Background](challenge-and-background.md)
+* [The Challenge](README.md)
 
 ## Project Instructions
 
