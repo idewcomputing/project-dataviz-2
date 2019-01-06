@@ -17,4 +17,5 @@
 ## Reference
 
 * [Data Dashboard Code Library](https://docs.idew.org/code-dataviz-dashboard/)
+* [Data Vizualization For All \(Online Book\)](https://www.datavizforall.org)
 

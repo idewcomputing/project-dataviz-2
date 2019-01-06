@@ -1,13 +1,13 @@
 # The Challenge
 
-Identify a local problem to investigate using data collection and visualization techniques. Your goal is to provide new insight into the problem and inspire action in your community. Dig deep and understand the context of the problem and the people it affects.
+Identify a problem to investigate using data collection and visualization techniques. Provide new insight into the problem and inspire action by your target audience. Dig deep and understand the context of the problem and the people it affects.
 
-### Project Deliverables
+### Final Deliverables
 
-* **A Web-based Visualization Dashboard** - We will primarily use [Google Charts](https://developers.google.com/chart/) and [alaSQL](http://alasql.org/)
-* **Poster**
-* **Video**
-* **Presentation**
+* **A Web-based Dashboard Visualization** - We will primarily use [Google Charts](https://developers.google.com/chart/) and [alaSQL](http://alasql.org/)
+* **Poster** - Summarize key activities and artifacts of your team's process.
+* **Video** -Demonstrate your dashboard and explain the value it provides.
+* **Public Presentation** -  A poster session where you will both demonstrate your dashboard and explain your team's process to the public.
 
 ### Skill Building
 
