@@ -12,7 +12,11 @@
 
 **❏ Deliverable:** Document containing three concepts.
 
-**Example**
+**Examples**
 
 ![](../../.gitbook/assets/teamconcepts.png)
+
+![](../../.gitbook/assets/sketch1.png)
+
+![](../../.gitbook/assets/sketch2.png)
 
