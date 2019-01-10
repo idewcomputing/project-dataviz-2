@@ -18,7 +18,7 @@ Complete the following code tutorials at your own pace at a minimum throughout t
 * SQL - [Kahn Academy SQL](https://www.khanacademy.org/computing/computer-programming/sql)
 * Spreadsheets - [Spreadsheet Tutorials \(8-16\)](http://www.gcflearnfree.org/googlespreadsheets/)​
 
-## About
+### About
 
 Copyright © 2019 Jim Lyst and Michael Frontz, Indiana University School of Informatics and Computing at IUPUI
 
