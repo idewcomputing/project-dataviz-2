@@ -1,6 +1,10 @@
 # 2-3 Prototype
 
-Prototyping will co-evolve with your teams data collection plan.
+![](../../.gitbook/assets/prototypeex.png)
+
+{% hint style="info" %}
+Keep in mind that your prototyping will co-evolve with your team's data collection planning.
+{% endhint %}
 
 ### Instructions
 
@@ -22,4 +26,6 @@ Style the page as you like, but don't worry too much about style and color. Focu
 #### 2. Get Feedback
 
 Get feedback from classmates outside of your team to check for any obvious problems, then each team member should get feedback from at least 2 people outside of class on your prototypes. Be prepared to outline and discuss the feedback received.
+
+[Example](https://docs.google.com/document/d/15Y0Er8GsPw7TLeYtoo8zwFv8dMPlmPu2012476MLGRc/edit?usp=sharing)
 
