@@ -2,7 +2,7 @@
 
 
 
-The quality and validity of your visualization project hinges on collecting good data. You will likely collect data from existing sources and prepare methods of collecting your own data. You will be collecting data in parallel with prototyping your team's dashboard. They will co-evolve.
+The quality and validity of your visualization project hinges on collecting good data. You will likely collect data from existing sources and prepare methods of collecting your own data. You will be planning your data collection in parallel with prototyping your team's dashboard. They will co-evolve.
 
 ### Instructions
 
@@ -13,5 +13,5 @@ The quality and validity of your visualization project hinges on collecting good
 
 ### **❏ Deliverable**
 
-Be prepared to share with your class your progress in data collection and be sure to document each items as described above.
+Be prepared to share with your class your data collection plan and be sure to document each items as described above.
 
