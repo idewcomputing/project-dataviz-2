@@ -1,6 +1,8 @@
-# 2-1 Development Plan
+# 2-1 Define Dashboard Elements
 
-Based on your proposal and any feedback you received on it, you will now ****map out the key elements for each potential chart or visual in your dashboard. While your team likely doesn't know exactly what your final dashboard is going to look like, you want to start  thinking about the building blocks for your dashboard carefully. So, you want to outline several visual elements that may end up being in your dashboard.
+![](../../.gitbook/assets/grid.png)
+
+The building blocks of your visualization dashboard are individual charts and visuals. You will now ****conceptualize the details for each of these building blocks that will support your proposal and value statement. Begin by describing six or more visual elements that may end up being in your dashboard.
 
 {% hint style="info" %}
 This might be a good time to use visual techniques for thinking [like Dan Roam provides](http://digitalroam.typepad.com/photos/uncategorized/2008/08/05/6x6.jpg). These concepts may help your team think about how different visuals can help answer _who, what, what, where, and when_ types of questions.
