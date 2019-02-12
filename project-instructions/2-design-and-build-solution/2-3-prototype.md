@@ -37,5 +37,9 @@ Before you get feedback on your prototypes, determine how you will prompt partic
 
 Get feedback from classmates outside of your team to check for any obvious problems, then each team member should get feedback from at least 2 people outside of class on your prototypes. Be prepared to outline and discuss the feedback received. 
 
-[Example](https://docs.google.com/document/d/15Y0Er8GsPw7TLeYtoo8zwFv8dMPlmPu2012476MLGRc/edit?usp=sharing)
+### **❏ Deliverables**
+
+Document your team's prototypes and the summary of feedback.
+
+[Example Prototype](https://docs.google.com/document/d/15Y0Er8GsPw7TLeYtoo8zwFv8dMPlmPu2012476MLGRc/edit?usp=sharing)
 
