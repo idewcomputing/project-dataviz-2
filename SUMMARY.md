@@ -13,6 +13,7 @@
   * [1-6 Team Proposal](project-instructions/1-discover-and-define-problem/1-6-team-proposal.md)
 * [2 Design & Build Solution](project-instructions/2-design-and-build-solution/README.md)
   * [2-1 Development Plan](project-instructions/2-design-and-build-solution/2-1-development-plan.md)
+  * [2-2 Data Collection](project-instructions/2-design-and-build-solution/2-2-data-collection.md)
 * [3 Evaluate & Refine Solution](project-instructions/3-evaluate-and-refine-solution.md)
 * [4 Share Project with Public](project-instructions/4-share-project-with-public.md)
 
