@@ -1,6 +1,6 @@
 # 2-3 Prototype
 
-![](../../.gitbook/assets/prototypeex.png)
+![Example Static Prototype](../../.gitbook/assets/prototypeex.png)
 
 {% hint style="info" %}
 Keep in mind that your prototyping will co-evolve with your team's data collection planning.
