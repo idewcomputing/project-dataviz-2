@@ -14,6 +14,7 @@
 * [2 Design & Build Solution](project-instructions/2-design-and-build-solution/README.md)
   * [2-1 Development Plan](project-instructions/2-design-and-build-solution/2-1-development-plan.md)
   * [2-2 Data Collection](project-instructions/2-design-and-build-solution/2-2-data-collection.md)
+  * [2-3 Prototype](project-instructions/2-design-and-build-solution/2-3-prototype.md)
 * [3 Evaluate & Refine Solution](project-instructions/3-evaluate-and-refine-solution.md)
 * [4 Share Project with Public](project-instructions/4-share-project-with-public.md)
 
