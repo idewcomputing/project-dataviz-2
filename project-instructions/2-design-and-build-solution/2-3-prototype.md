@@ -10,7 +10,7 @@ Keep in mind that your prototyping will co-evolve with your team's data collecti
 
 #### 1. Create at least three prototypes for your team's dashboard
 
-Each prototype can be mixed-media, like the example below, where you use a sketch embedded in a Google document to represent what your dashboard may look like.
+Each prototype can be mixed-media, like the example above, where you use a sketch embedded in a Google document to represent what your dashboard may look like.
 
 Each prototype should contain the same elements your final dashboard will have.
 
