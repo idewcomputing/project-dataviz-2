@@ -1,6 +1,6 @@
 # 3-1 Dashboard Evaluation
 
-![](../../.gitbook/assets/dashboardevaltemplate.png)
+![](../../.gitbook/assets/dashboardevaltemplate%20%282%29.png)
 
 ### Instructions
 
