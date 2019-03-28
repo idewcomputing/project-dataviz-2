@@ -22,7 +22,9 @@
   * [3-2 Dashboard Improvement Targets](project-instructions/3-evaluate-and-refine-solution/3-2-dashboard-refinement-goals.md)
   * [3-3 Team Process Documentation](project-instructions/3-evaluate-and-refine-solution/3-3-team-process-documentation.md)
   * [3-4 Prepare Demonstration and Process Review](project-instructions/3-evaluate-and-refine-solution/3-4-prepare-demonstration-and-process-review.md)
-* [4 Share Project with Public](project-instructions/4-share-project-with-public.md)
+* [4 Share Project with Public](project-instructions/4-share-project-with-public/README.md)
+  * [4-1 Individual Reflection](project-instructions/4-share-project-with-public/4-1-individual-reflection.md)
+  * [4-2 Present Project to Public](project-instructions/4-share-project-with-public/4-2-present-project-to-public.md)
 
 ## Reference
 
