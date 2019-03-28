@@ -19,6 +19,9 @@
   * [2-5 Present a Development Review and Demonstration](project-instructions/2-design-and-build-solution/2-5-present-a-development-review-and-demonstration.md)
 * [3 Evaluate & Refine Solution](project-instructions/3-evaluate-and-refine-solution/README.md)
   * [3-1 Dashboard Evaluation](project-instructions/3-evaluate-and-refine-solution/3-1-dashboard-evaluation.md)
+  * [3-2 Dashboard Improvement Targets](project-instructions/3-evaluate-and-refine-solution/3-2-dashboard-refinement-goals.md)
+  * [3-3 Team Process Documentation](project-instructions/3-evaluate-and-refine-solution/3-3-team-process-documentation.md)
+  * [3-4 Prepare Demonstration and Process Review](project-instructions/3-evaluate-and-refine-solution/3-4-prepare-demonstration-and-process-review.md)
 * [4 Share Project with Public](project-instructions/4-share-project-with-public.md)
 
 ## Reference

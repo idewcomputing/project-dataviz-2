@@ -28,3 +28,5 @@ Conduct an evaluation with at least 6 other classmates and at least 6 people out
 
 ### **❏ Deliverable**
 
+Documents summarizing your evaluation findings.
+
