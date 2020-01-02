@@ -2,7 +2,7 @@
 
 For this exercise you will explore visualizations online and to see the breadth of approaches and domains that visualization is applied. You will then select one visualization to analyze and share it with the class. Let's get some [inspiration from Hans Rosling](https://youtu.be/hVimVzgtD6w?t=2m29s).
 
-{% embed url="https://youtu.be/hVimVzgtD6w?t=2m29s" %}
+{% embed url="https://youtu.be/hVimVzgtD6w?t=2m29s" caption="" %}
 
 **Instructions**
 

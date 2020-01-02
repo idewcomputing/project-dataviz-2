@@ -1,6 +1,6 @@
 # 1-6 Team Proposal
 
-### Instructions
+## Instructions
 
 1. **Based on your concept evaluations determine your team's preferred concept.**
 2. **Refine your previous work as needed to be included in your proposal presentation.** Ensure that each slide contributes to an explanation of a cohesive story that supports your concept and value proposition. Below is an outline you want in your proposal. Carefully consider how you will tell a convincing story about your team's concept.

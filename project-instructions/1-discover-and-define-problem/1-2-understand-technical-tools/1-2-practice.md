@@ -1,4 +1,4 @@
-# 1-2 Dashboard Template Tutorial
+# C - Web App Dashboard Template Tutorial
 
 **Instructions**
 

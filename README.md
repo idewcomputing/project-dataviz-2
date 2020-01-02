@@ -6,8 +6,8 @@ Identify a problem to investigate using data collection and visualization techni
 
 ## Final Deliverables
 
-* **A Web-based Dashboard Visualization** - We will primarily use [Google Charts](https://developers.google.com/chart/) and [alaSQL](http://alasql.org/)
-* **Poster** - Summarize key activities and artifacts of your team's process.
+* **A Visualization** - Use a spreadsheet, Python Notebooks, or a Web App.
+* **11 x 17 Poster** - Summarize key activities and artifacts of your team's process.
 * **Video** -Demonstrate your dashboard and explain the value it provides.
 * **Public Presentation** -  A poster session where you will both demonstrate your dashboard and explain your team's process to the public.
 
@@ -17,10 +17,11 @@ Complete the following code tutorials at your own pace at a minimum throughout t
 
 * SQL - [Kahn Academy SQL](https://www.khanacademy.org/computing/computer-programming/sql)
 * Spreadsheets - [Spreadsheet Tutorials \(8-16\)](http://www.gcflearnfree.org/googlespreadsheets/)​
+* Python - [Learnpython.org's Tutorials \(Learn the Basics and Data Science Tutorials\)](https://www.learnpython.org/en/Welcome)
 
 ## Copyright and License
 
-Copyright © 2018-2019 Jim Lyst and Michael Frontz, Indiana University School of Informatics and Computing at IUPUI
+Copyright © 2020 Jim Lyst, Indiana University School of Informatics and Computing at IUPUI
 
 This material is part of the [Computing by Design](https://docs.idew.org/the-cxd-framework/) high school computer science curriculum developed for the [Informatics Diversity-Enhanced Workforce \(iDEW\)](http://soic.iupui.edu/idew/) program, an award-winning community partnership in central Indiana that is broadening student participation in computing and helping students develop the skills essential for success in the 21st century workplace. The iDEW program is managed by the [Indiana University School of Informatics and Computing at IUPUI](https://soic.iupui.edu/).
 

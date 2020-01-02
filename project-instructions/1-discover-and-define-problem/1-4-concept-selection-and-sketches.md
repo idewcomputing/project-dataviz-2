@@ -1,7 +1,5 @@
 # 1-4 Concept Selection and Sketches
 
-
-
 1. **Narrow down your team concepts to the top three**.
 2. **Complete the following details for each concept.** You can use [this template](https://docs.google.com/document/d/1q8GrkOk40KiU47JYBdZOsisdYwBYWD-02eguFwuemaM/edit?usp=sharing).
    * Description
