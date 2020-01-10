@@ -2,7 +2,7 @@
 
 _Objective: Experience how to import CSV data into a spreadsheet, create charts from the data and compose the charts into a visualization document._   
   
-Your goal for this exercise is to create a visualization that looks something like the exampled below. You will start with the same data and use Google Sheets to create the charts. You can then copy and paste charts into Google Drawing to create a refined composite of the charts. 
+Your goal for this exercise is to create a visualization that looks something like the example below. You will start with the same data and use Google Sheets to create the charts. You can then copy and paste charts into Google Drawing to create a refined composite of the charts. 
 
 ![](../../../.gitbook/assets/moviesexample.png)
 
