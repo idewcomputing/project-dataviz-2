@@ -12,7 +12,7 @@ Your goal for this exercise is to create a visualization that looks something li
 
 **Instructions**
 
-1. Download the two CSV files above for top movies from the IMDb database.
+1. Download the two CSV files above for top movies from the IMDb database. [Video](https://drive.google.com/file/d/1d_salWS-LsEZK3geruCR96EGNUTTsbjv/view?usp=sharing)
 2. Import the two CSV files above into Google Sheets. Import one CSV file per sheet \(tab\).
 3. Create histograms of the "year" column for each dataset.
 4. Create a scatterplot comparing the "rank" and "metascore" for the movie-goer dataset. Similarly create a scatterplot comparing the "rank" and "avg\_vote" for the critics dataset.
