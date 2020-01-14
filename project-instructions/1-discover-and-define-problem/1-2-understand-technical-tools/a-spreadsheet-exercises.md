@@ -20,8 +20,8 @@ Your goal for this exercise is to create a visualization that looks something li
 6. Start a Google Drawing and set the page to 17" wide by 11" tall.
 7. Copy and paste your charts from Google Sheets into your drawing and resize as needed.
 
-{% hint style="warning" %}
-Check back soon for more.
+{% hint style="info" %}
+Since this exercise is focused on practicing spreadsheet skills, you can use "Latin copy" as a placeholder for text. Here is an online generator you can use -- [https://loremipsum.io/](https://loremipsum.io/).
 {% endhint %}
 
 
