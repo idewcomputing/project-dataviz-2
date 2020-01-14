@@ -1,6 +1,6 @@
 # The Challenge
 
-### Identify a problem to investigate using data collection and visualization techniques. Provide new insight into the problem and inspire action by your target audience. Dig deep and understand the context of the problem and the people it affects.
+#### Identify a problem to investigate using data collection and visualization techniques. Provide new insight into the problem and inspire action by your target audience. Dig deep and understand the context of the problem and the people it affects.
 
 **SAMPLE VISUALIZATION**
 
