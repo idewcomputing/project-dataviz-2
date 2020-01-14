@@ -13,7 +13,7 @@ Your goal for this exercise is to create a visualization that looks something li
 **Instructions**
 
 1. Download the two CSV files above and import the two CSV files into Google Sheets.  Import one CSV file per sheet \(tab\).  [Video](https://drive.google.com/file/d/1d_salWS-LsEZK3geruCR96EGNUTTsbjv/view?usp=sharing)
-2. Create histograms of the "year" column for each dataset. You will need to modify the horizontal axis minimum and maximum values to 1930 and 2020. [Video](https://drive.google.com/file/d/1yRuhrKtfcTL7PcHIrylGus7t2X_qpO01/view?usp=sharing)
+2. Create histograms of the "year" column for each dataset. You will need to modify the horizontal axis minimum and maximum values to 1920 and 2020. [Video](https://drive.google.com/file/d/1yRuhrKtfcTL7PcHIrylGus7t2X_qpO01/view?usp=sharing)
 3. Create a scatterplot comparing the "rank" and "avg\_vote" for the movie-goer dataset and customize the vertical axis to have a minimum of 8. Similarly create a scatterplot comparing the "rank" and "metascore" for the critics dataset. [Video](https://drive.google.com/file/d/1ZBUlByvrY-qFSOMfsPxFHctJ9rP3Radm/view?usp=sharing)
 4. Create a bar chart of the "worldwide\_gross\_income" for the top 10 movies of each dataset. [Video](https://drive.google.com/file/d/18YLTMwpUojhjCnhYEcfaSyE19fqZpfjk/view?usp=sharing)
 5. Update the title and axis labels to be like the example visualization and update the colors. 
