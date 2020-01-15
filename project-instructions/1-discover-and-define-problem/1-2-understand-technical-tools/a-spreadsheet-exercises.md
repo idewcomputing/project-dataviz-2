@@ -6,9 +6,9 @@ Your goal for this exercise is to create a visualization that looks something li
 
 ![](../../../.gitbook/assets/moviesexample.png)
 
-{% file src="../../../.gitbook/assets/top\_movies\_voters \(2\).csv" %}
+{% file src="../../../.gitbook/assets/top\_movies\_voters \(4\).csv" %}
 
-{% file src="../../../.gitbook/assets/top\_movies\_critics \(2\).csv" %}
+{% file src="../../../.gitbook/assets/top\_movies\_critics \(1\).csv" %}
 
 **Instructions**
 
