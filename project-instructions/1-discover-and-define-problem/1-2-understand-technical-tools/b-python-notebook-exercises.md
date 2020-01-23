@@ -1,8 +1,20 @@
 # B - Python Notebook Exercises
 
-{% hint style="warning" %}
-Check back soon.
-{% endhint %}
+_Objectives: Experience how to import CSV data into a Python Notebook and create charts from the data, similar to what was done in the spreadsheet exercise.  Develop an understanding of how Python Notebooks work to document and execute code._  
+  
+Your goal for this exercise is to complete items in a template Python Notebook to import CSV data and produce several charts .  The resulting document will look something like the image below.
 
+![](../../../.gitbook/assets/key_movie_data_lab.png)
 
+This exercise is partially a tutorial with some copy/paste/edit tasks to build an intuition of how python notebooks work and can be used to process data. We will create charts from movie datasets, similar to the spreadsheet exercise.
+
+**Instructions**
+
+1. Create your own copy of [this Python Notebook](https://colab.research.google.com/github/jlyst/101/blob/master/data/Movie_Data_Lab.ipynb) in your google drive.
+2. Follow along in each step of the notebook and complete the TASK items.
+3. Once complete, print the notebook as a PDF and submit your PDF file.
+
+**Deliverable**
+
+A PDF of the completed notebook.
 
