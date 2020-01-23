@@ -18,3 +18,7 @@ This exercise is partially a tutorial with some copy/paste/edit tasks to build a
 
 A PDF of the completed notebook.
 
+{% hint style="info" %}
+Note: Similar to the spreadsheet exercise, you could copy and paste the charts as images into a drawing application, like Google Draw.
+{% endhint %}
+
