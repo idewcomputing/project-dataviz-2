@@ -8,7 +8,7 @@ Your goal for this exercise is to complete items in a template Python Notebook t
 
 This exercise is partially a tutorial with some copy/paste/edit tasks to build an intuition of how python notebooks work and can be used to process data. We will create charts from movie datasets, similar to the spreadsheet exercise.
 
-#### **Instructions**
+#### **Instructions \(see** [**Video Explanation**](https://drive.google.com/file/d/1ktXwEnjMjqwhvNttXeF0v_gyO_s16SVT/view?usp=sharing)**\)**
 
 1. Create your own copy of [this Python Notebook](https://colab.research.google.com/github/jlyst/101/blob/master/data/Movie_Data_Lab.ipynb) in your google drive.
 2. Follow along in each step of the notebook and complete the TASK items.
