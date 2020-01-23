@@ -20,7 +20,7 @@ A PDF of the completed notebook.
 
 > _NOTE: Getting Images of Charts_
 >
-> If you needed to get images of your charts from the notebook, you could do one of two things. 
+> If you needed to get images of your charts from the notebook for use in another application, like Google Drawing, you could do one of two things. 
 >
 > 1. You could screen capture a copy of a chart and paste it as an image into a drawing application, like Google Draw. 
 > 2. You could download a PNG file directly from the Python Notebook \(Colab on Google Drive\) using a code block like the following.
