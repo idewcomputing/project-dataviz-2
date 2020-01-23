@@ -22,8 +22,8 @@ A PDF of the completed notebook.
 >
 > If you needed to get images of your charts from the notebook for use in another application, like Google Drawing, you could do one of two things. 
 >
-> 1. You could screen capture a copy of a chart and paste it as an image into a drawing application, like Google Draw. 
-> 2. You could download a PNG file directly from the Python Notebook \(Colab on Google Drive\) using a code block like the following.
+> 1. You could screen capture a copy of a chart and paste it as an image into another application. 
+> 2. You could download a PNG file directly from the Python Notebook \(Colab on Google Drive\) using a code block like the following and insert that image in the other application.
 >
 >    ```python
 >    voters.plot.scatter(x='rank', y='metascore')
