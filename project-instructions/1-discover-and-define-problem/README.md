@@ -1,4 +1,4 @@
-# 1 Discover & Define Problem
+# 1 DEFINE PROBLEM & VALUE PROPOSITION
 
 ![](../../.gitbook/assets/phase1.png)
 
