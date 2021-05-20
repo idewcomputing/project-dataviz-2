@@ -6,10 +6,7 @@
 
 * [1 DEFINE PROBLEM & VALUE PROPOSITION](project-instructions/1-discover-and-define-problem/README.md)
   * [1-1 Exploring Visualizations](project-instructions/1-discover-and-define-problem/1-1-exploring-visualizations.md)
-  * [1-2 Understand Technical Tools](project-instructions/1-discover-and-define-problem/1-2-understand-technical-tools/README.md)
-    * [A - Spreadsheet Exercises](project-instructions/1-discover-and-define-problem/1-2-understand-technical-tools/a-spreadsheet-exercises.md)
-    * [B - Python Notebook Exercises](project-instructions/1-discover-and-define-problem/1-2-understand-technical-tools/b-python-notebook-exercises.md)
-    * [C - Web App Dashboard Template Tutorial](project-instructions/1-discover-and-define-problem/1-2-understand-technical-tools/1-2-practice.md)
+  * [1-2 Understand Technical Tools](project-instructions/1-discover-and-define-problem/1-2-understand-technical-tools.md)
   * [1-3 Concept Ideation](project-instructions/1-discover-and-define-problem/1-3-concept-ideation.md)
   * [1-4 Concept Selection and Sketches](project-instructions/1-discover-and-define-problem/1-4-concept-selection-and-sketches.md)
   * [1-5 Concept Evaluation](project-instructions/1-discover-and-define-problem/1-5-concept-evaluation.md)
@@ -30,6 +27,8 @@
 
 ## Reference
 
-* [Web App Code Library](https://docs.idew.org/code-dataviz-dashboard/)
+* [Data Viz with Spreadsheets Exercise](reference/a-spreadsheet-exercises.md)
+* [Data Viz with Python Exercise](reference/b-python-notebook-exercises.md)
+* [Data Viz with Web App Code Reference](https://docs.idew.org/code-dataviz-dashboard/)
 * [Data Vizualization For All \(Online Book\)](https://www.datavizforall.org)
 
