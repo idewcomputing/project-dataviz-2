@@ -6,21 +6,21 @@
 
 There are numerous ways to **collect, process, and visualize data**. Here, we introduce three popular tools — spreadsheets, Python notebooks, and web apps.  All three options provide powerful features, but each of them offer particular strengths to consider for your development. These tools can be used in isolation or combined in a workflow. In order to better understand what is technically feasible for you project, complete each of these exercises to prepare you for creating a proposed concept.
 
-### **Spreadsheets**
+### **1 Spreadsheets**
 
 Spreadsheets are the Swiss Army Knives of data, providing a quick entry point to processing and visualizing data. 
 
 1. **Complete** [**this spreadsheet exercise**](../../reference/a-spreadsheet-exercises.md) **to build a practice visualization.**
 2. **Deliverable:** Export your Google Drawing \(Finished Visualization\) as a PDF and provide a shareable link to your Google sheets file.
 
-### **Python Notebooks**
+### **2 Python Notebooks**
 
 Python notebooks are increasingly popular choice for data scientists with many code libraries that make coding with data very efficient and powerful. 
 
 1. **Complete** [**this Python notebook exercise**](../../reference/b-python-notebook-exercises.md) **to build a practice visualization.**
 2. **Deliverable:** Export your notebook as a PDF and provide a shareable link to your Python Notebook in Google Colab.
 
-### **Web Apps**
+### **3 Web Apps**
 
 Web apps provide a universal way to share data visualizations through a common browser and can be dynamically updated with live data. 
 
