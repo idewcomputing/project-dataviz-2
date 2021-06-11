@@ -31,4 +31,5 @@
 * [Data Viz with Python Exercise](reference/b-python-notebook-exercises.md)
 * [Data Viz with Web App Code Reference](https://docs.idew.org/code-dataviz-dashboard/)
 * [Data Vizualization For All \(Online Book\)](https://www.datavizforall.org)
+* [Open Data Sources](https://www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d/)
 
