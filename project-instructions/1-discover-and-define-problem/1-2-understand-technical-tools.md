@@ -29,3 +29,11 @@ Web apps provide a universal way to share data visualizations through a common b
 
 
 
+For reference: Open Sources of Data
+
+{% embed url="https://www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d/" %}
+
+
+
+
+

@@ -2,6 +2,8 @@
 
 The quality and validity of your visualization project hinges on collecting good data. You will likely collect data from existing sources and prepare methods of collecting your own data. You will be planning your data collection in parallel with prototyping your team's dashboard. They will co-evolve.
 
+{% embed url="https://www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d/" %}
+
 ## Instructions
 
 1. **Download Currently Available Data**  Locate freely available data that you will \(or may\) use for your project and download a copy. If it is CSV data, import the data into a spreadsheet and verify the columns are correct. Place any files in your group's online folder.
